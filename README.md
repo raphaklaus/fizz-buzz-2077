@@ -14,3 +14,7 @@
 ```sh
   > docker run fizzbuzz npm test
 ```
+
+# CI
+
+Just go here: https://github.com/raphaklaus/fizz-buzz-2077/actions
