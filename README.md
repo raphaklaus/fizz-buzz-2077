@@ -1,4 +1,5 @@
 # Fizz Buzz 2077
+![Node.js CI](https://github.com/raphaklaus/fizz-buzz-2077/workflows/Node.js%20CI/badge.svg)
 
 ## Instructions
 
