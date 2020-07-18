@@ -17,6 +17,6 @@ export const calc = (n: number): string | number => {
   return Object.keys(possibleOutcomes)
   .map(x => parseInt(x))
   .reduce((prev, current) => {
-    return n % current === 0 ? prev + possibleOutcomes[current].toString() : prev + ''
+    return prev + (n % current === 0 ? possibleOutcomes[current].toString() : '')
   }, '') || n
 }
