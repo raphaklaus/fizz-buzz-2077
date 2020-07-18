@@ -15,6 +15,12 @@
   > docker run fizzbuzz npm test
 ```
 
-# CI
+## Coverage
+
+```sh
+  > docker run fizzbuzz npm run coverage
+```
+
+## CI
 
 Just go here: https://github.com/raphaklaus/fizz-buzz-2077/actions
