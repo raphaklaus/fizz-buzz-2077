@@ -12,5 +12,5 @@
 ## Testing
 
 ```sh
-  > npm test
+  > docker run fizzbuzz npm test
 ```
