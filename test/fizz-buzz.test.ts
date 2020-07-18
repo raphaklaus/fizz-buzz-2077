@@ -1,5 +1,5 @@
 import assert from 'assert'
-import { calc, type } from '../src'
+import { calc, type } from '../src/fizzbuzz'
 
 describe('Fizz Buzz', () => {
   it('should return fizz for multiples of 3', () => {
